@@ -11,6 +11,13 @@ html, body {
 
 body {
   margin: 80px 0; }
+  
+div {
+
+  padding: 20px;
+  background-color: black;
+  margin: 100px;
+}
 
 p.learn {
   margin-top: 20px;
@@ -20,12 +27,7 @@ span.tile-text {
   line-height: 1.25;
 }
 
-div {
 
-  padding: 20px;
-  background-color: black;
-  margin: 100px;
-}
 
 
 input {
